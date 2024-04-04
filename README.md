@@ -1,37 +1,73 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors" />
 
-![logo](https://github.com/abdullahanwar21/abdullahanwar21/blob/main/Blue%20Modern%20Technology%20LinkedIn%20Banner%20(1).png)
-<h1 align="center">Hi 👋, I'm Abdullah Anwnar</h1>
-<h3 align="center">A passionate full stack web developer from Karachi Pakistan</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahanwar21&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahanwar21" /> </p>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abdullah+Anwar!;" />
+</h1>
 
-- 📫 How to reach me **abdullahmeer396@gmail.com**
+<h3 align="center">A passionate Mern Stack developer from Pakistan,Karachi</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" height="30" width="40" /></a>
-<a href="https://fb.com/abdullahanwar20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdullahanwar20" height="30" width="40" /></a>
-<a href="https://instagram.com/abdullahanwar546" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdullahanwar546" height="30" width="40" /></a>
-</p>
+<br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+<div align="center">
+ 
+ 🔭 I’m currently persuing full-stack  **webdev**
+ 
+ 🌱 I’m currently learning **ReactJs,NodeJs,NextJs,MongoDb  **
+
+💬 Ask me about **Node.js,Next, React, Firebase... or anything about related web dev..**
+
+⚡ Fun fact **Web developers: architects of the internet, shaping our digital world daily.**
+
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:abdullahmeer396@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/abdullah-anwar22/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://salesp07.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
+
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git," />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,firebase,mongodb,nextjs,php,mysql," /><br>
+</div>
+
+<br/>
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
-</p>
+  <br/><br/><br/>
+</div>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahanwar21&show_icons=true&locale=en&layout=compact" alt="abdullahanwar21"/></p>
+<hr/>
 
-<p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=abdullahanwar21&show_icons=true&locale=en" alt="abdullahanwar21" /></p>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=395 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=abdullahanwar21&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=375 src="https://github-readme-stats-salesp07.vercel.app/api?username=abdullahanwar21&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=abdullahanwar21&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/><br/>
+
+<hr/>
+
+<br/>
 
 
+<br/>
